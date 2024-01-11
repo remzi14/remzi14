@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @remzi14
 - 👀 I’m interested in ...  coder
 - 🌱 I’m currently learning ... in uzbek
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ramizjonziyodullayev@gmail.com
 
 <!---
