@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @remzi14
-- 👀 I’m interested in ...  coder
-- 🌱 I’m currently learning ... in uzbek
-- 📫 How to reach me ... ramizjonziyodullayev@gmail.com
-
-<!---
-remzi14/remzi14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Ramizjon and I am a programmer. I'm always writing code. I currently live in Uzbekistan and I speak Uzbek.
+My future dream is to become a big programmer and open my own big company.
+This is about me.
+To contact me, please contact ramizjonziyodullayev@gmail.com, bye!
